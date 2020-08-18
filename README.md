@@ -1,0 +1,2 @@
+# Reasons-why-Inventory-Management-Software-is-essential
+Most of the times when buying products online we face an issue to “out of stock” or the product isn’t available at the moment. This happens because the company wasn’t able to replenish the item at the correct time and they ran out of it. This happens because they couldn’t keep a real-time track of the inventory which led them to this situation. Thus to handle and solve this problem, a company should always switch to effective inventory management software.  
